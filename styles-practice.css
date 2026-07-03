@@ -1,0 +1,39 @@
+body {
+  background-color:powderblue;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40vh;
+}       
+
+.task:nth-child(1) { color: #e74c3c; }
+.task:nth-child(2) { color: #3498db; }
+.task:nth-child(3) { color: #2ecc71; }
+.task:nth-child(4) { color: #f39c12; }
+
+div.center-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20vh;
+}
+
+ol.center-list {
+  text-align: center;
+  list-style-position: inside;
+}
+
+h1.daily-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #f88ce4;
+}
+
+#oz-link {
+  text-decoration: none;}
+

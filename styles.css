@@ -1,0 +1,16 @@
+body {
+  background-color: #f4f4f4;
+  font-family: Arial, sans-serif;
+}
+p {
+    font-size: 18px;margin-bottom: 10px;
+}
+.bold-text {
+    font-weight: bold;
+}
+.daily-title {
+    color: #3498db;
+}
+#oz-link {
+    text-decoration: none;
+}
